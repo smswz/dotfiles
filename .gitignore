@@ -1,0 +1,4 @@
+#Just some generic excludes
+
+#vim files
+*.sw*
