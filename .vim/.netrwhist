@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/sms/aur/pommed'
+let g:netrw_dirhist_2='/home/sms/aur/pommed/src'
+let g:netrw_dirhist_3='/home/sms/aur/pommed/src/pommed-1.37'
+let g:netrw_dirhist_4='/home/sms/aur/pommed/src'
+let g:netrw_dirhist_5='/home/sms/aur/pommed'
