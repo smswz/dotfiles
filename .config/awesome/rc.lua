@@ -59,7 +59,6 @@ mylauncher = awful.widget.launcher({ image = beautiful.awesome_icon,
 -- {{{ Wibox
 mytextclock = awful.widget.textclock()
 --mytextclock = awful.widget.textclock({align = "right"}, "%h:%M %d.%m.%y")
---[[
 flagicon = widget ({ type = "textbox" })
 flagicon.bg_image = image(beautiful.widget_us)
 flagicon.bg_align = "middle"
@@ -84,7 +83,6 @@ batticon = widget ({ type = "textbox" })
 batticon.bg_image = image(beautiful.widget_batt_full)
 batticon.bg_align = "middle"
 batticon.width = 8
-]]--
 
 
 -- Create a wibox for each screen and add it

@@ -84,6 +84,23 @@ theme.awesome_icon           = theme.dir .. "archlinux.png"
 theme.menu_submenu_icon      = "/usr/share/awesome/themes/default/submenu.png"
 -- }}}
 
+-- {{{ Widget Icons
+-- Flags
+theme.widget_us         = theme.dir .. "icons/flags/us.png"
+theme.widget_de         = theme.dir .. "icons/flags/de.png"
+theme.widget_no         = theme.dir .. "icons/flags/no.png"
+
+-- Status widgets
+theme.widget_spkr       = theme.dir .. "icons/spkr_01.png"
+theme.widget_spkr_mute  = theme.dir .. "icons/spkr_02.png"
+theme.widget_pacman     = theme.dir .. "icons/pacman.png"
+theme.widget_eth        = theme.dir .. "icons/net_wired.png"
+theme.widget_wifi       = theme.dir .. "icons/wifi_01.png"
+theme.widget_batt_full  = theme.dir .. "icons/bat_full_02.png"
+theme.widget_batt_low   = theme.dir .. "icons/bat_low_02.png"
+theme.widget_batt_empty = theme.dir .. "icons/bat_empty_02.png"
+-- }}}
+
 -- {{{ Layout
 theme.layout_tile       = theme.dir .. "layouts/tile.png"
 theme.layout_tileleft   = theme.dir .. "layouts/tileleft.png"
