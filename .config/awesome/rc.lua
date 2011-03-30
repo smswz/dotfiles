@@ -93,7 +93,6 @@ batticon = widget ({ type = "textbox" })
 batticon.bg_image = image(beautiful.widget_batt_full)
 batticon.bg_align = "middle"
 batticon.width = 8
-]]--
 
 -- Create a systray
 mysystray = widget({ type = "systray" })
