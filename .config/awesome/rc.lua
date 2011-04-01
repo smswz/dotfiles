@@ -1,10 +1,7 @@
--- Standard awesome library
 require("awful")
 require("awful.autofocus")
 require("awful.rules")
--- Theme handling library
 require("beautiful")
--- Notification library
 require("naughty")
 require("vicious")
 
@@ -102,7 +99,7 @@ battinfo = widget({ type = "textbox"})
 
 -- Keyboard switcher
 kbs = {}
-kbs.command = "setxkbmap -option 'ctrl:nocaps' " -- the letters are added afterwards
+kbs.command = "setxkbmap -option 'ctrl:nocaps' " 
 kbs.layout = { { "us", beautiful.widget_us }, { "de", beautiful.widget_de }, { "no", beautiful.widget_no} }
 kbs.current = 1 -- default to US
 kbs.widget = flagicon

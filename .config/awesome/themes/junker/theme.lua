@@ -12,7 +12,7 @@
 theme = {}
 theme.name = "junker"
 theme.dir = awful.util.getdir("config") .. "/themes/" .. theme.name .. "/"
-theme.wallpaper_cmd = { "awsetbg " .. theme.dir .. "background.png" }
+theme.wallpaper_cmd = { "awsetbg -m" .. theme.dir .. "archwall_dark_blue.png" }
 -- }}}
 
 -- {{{ Styles
