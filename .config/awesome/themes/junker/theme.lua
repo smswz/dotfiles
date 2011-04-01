@@ -1,10 +1,12 @@
--------------------------------
---  "Zenburn" awesome theme  --
---    By Adrian C. (anrxc)   --
--------------------------------
+------------------------------------
+--  "junker" awesome theme        --
+--    By Sean S (gtarget/smswz)   --
+------------------------------------
 
 -- Alternative icon sets and widget icons:
 --  * http://awesome.naquadah.org/wiki/Nice_Icons
+-- Icons aren't part of this theme, b/c I don't own them
+-- My icons are modified from above, and my flags are from famfamfam_flags
 
 -- {{{ Main
 theme = {}
@@ -14,28 +16,28 @@ theme.wallpaper_cmd = { "awsetbg " .. theme.dir .. "background.png" }
 -- }}}
 
 -- {{{ Styles
-theme.font      = "sans 8"
+theme.font      = "fixed 9"
 
 -- {{{ Colors
-theme.fg_normal  = "#DCDCCC"
-theme.fg_focus   = "#F0DFAF"
-theme.fg_urgent  = "#CC9393"
-theme.bg_normal  = "#3F3F3F"
-theme.bg_focus   = "#1E2320"
-theme.bg_urgent  = "#3F3F3F"
+theme.fg_normal  = "#d8e1e3"
+theme.fg_focus   = "#a6d7e3"
+theme.fg_urgent  = "#fff8a6"
+theme.bg_normal  = "#3f3f3f"
+theme.bg_focus   = "#1e2320"
+theme.bg_urgent  = theme.bg_normal
 theme.bg_systray = theme.bg_normal
 -- }}}
 
 -- {{{ Borders
 theme.border_width  = "2"
-theme.border_normal = "#3F3F3F"
-theme.border_focus  = "#6F6F6F"
-theme.border_marked = "#CC9393"
+theme.border_normal = theme.bg_normal
+theme.border_focus  = "#6f6f6f"
+theme.border_marked = "#cc9393"
 -- }}}
 
 -- {{{ Titlebars
-theme.titlebar_bg_focus  = "#3F3F3F"
-theme.titlebar_bg_normal = "#3F3F3F"
+theme.titlebar_bg_focus  = theme.bg_normal
+theme.titlebar_bg_normal = theme.bg_normal
 -- }}}
 
 -- There are other variable sets
@@ -60,7 +62,7 @@ theme.titlebar_bg_normal = "#3F3F3F"
 -- }}}
 
 -- {{{ Mouse finder
-theme.mouse_finder_color = "#CC9393"
+theme.mouse_finder_color = "#cc9393"
 -- mouse_finder_[timeout|animate_timeout|radius|factor]
 -- }}}
 
