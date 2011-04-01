@@ -6,6 +6,7 @@ require("awful.rules")
 require("beautiful")
 -- Notification library
 require("naughty")
+require("vicious")
 
 -- {{{ Variable definitions
 -- Themes define colours, icons, and wallpapers
@@ -13,7 +14,7 @@ beautiful.init("/home/sms/.config/awesome/themes/junker/theme.lua")
 
 -- This is used later as the default terminal and editor to run.
 terminal = "urxvt"
-editor = os.getenv("EDITOR") or "vim"
+editor = os.getenv("EDITOR") or "gvim"
 editor_cmd = terminal .. " -e " .. editor
 web_browser = "firefox"
 file_broser = web_browser .. " file:///"
@@ -66,9 +67,11 @@ mylauncher = awful.widget.launcher({ image = image(beautiful.awesome_icon),
 
 -- {{{ Wibox
 -- Create a textclock widget
-mytextclock = awful.widget.textclock({ layout = awful.widget.layout.horizontal.leftright }, " %H:%M %d.%m.%y ")
+mytextclock = awful.widget.textclock({ layout = awful.widget.layout.horizontal.leftright }, "%H:%M %d.%m.%y")
+separator = widget({ type = "textbox" })
+separator.text = " "
 
---[[
+-- Icons
 flagicon = widget ({ type = "textbox" })
 flagicon.bg_image = image(beautiful.widget_us)
 flagicon.bg_align = "middle"
@@ -81,10 +84,6 @@ pacicon = widget ({ type = "textbox" })
 pacicon.bg_image = image(beautiful.widget_pacman)
 pacicon.bg_align = "middle"
 pacicon.width = 8
-ethicon = widget ({ type = "textbox" })
-ethicon.bg_image = image(beautiful.widget_eth)
-ethicon.bg_align = "middle"
-ethicon.width = 8
 wificon = widget ({ type = "textbox" })
 wificon.bg_image = image(beautiful.widget_wifi)
 wificon.bg_align = "middle"
@@ -93,6 +92,55 @@ batticon = widget ({ type = "textbox" })
 batticon.bg_image = image(beautiful.widget_batt_full)
 batticon.bg_align = "middle"
 batticon.width = 8
+
+-- Widgets
+spkrinfo = widget({ type = "textbox"})
+pacinfo = widget({ type = "textbox"})
+ethinfo = widget({ type = "textbox"})
+wifinfo = widget({ type = "textbox"})
+battinfo = widget({ type = "textbox"})
+
+-- Keyboard switcher
+kbs = {}
+kbs.command = "setxkbmap -option 'ctrl:nocaps' " -- the letters are added afterwards
+kbs.layout = { { "us", beautiful.widget_us }, { "de", beautiful.widget_de }, { "no", beautiful.widget_no} }
+kbs.current = 1 -- default to US
+kbs.widget = flagicon
+kbs.switch = function ()
+    kbs.current = kbs.current % 3 + 1
+    kbs.widget.bg_image = image(kbs.layout[kbs.current][2])
+    os.execute(kbs.command .. kbs.layout[kbs.current][1])
+end
+kbs.widget:buttons(awful.util.table.join(
+    awful.button({}, 1, function () kbs.switch() end)
+    ))
+
+
+-- Vicious
+vicious.register(spkrinfo, vicious.widgets.volume,
+    function (widget, args)
+        if args[1] == 0 then
+            spkricon.bg_image = image(beautiful.widget_spkr_mute)
+        else
+            spkricon.bg_image = image(beautiful.widget_spkr)
+        end
+        return args[1]
+    end, 2, "PCM")
+vicious.register(pacinfo, vicious.widgets.pkg, "$1", 301, "Arch")
+vicious.register(wifinfo, vicious.widgets.wifi, "${ssid}", 501)
+vicious.register(battinfo, vicious.widgets.bat,
+    function (widget, args)
+        if args[2] < 10 then
+            batticon.bg_image = image(beautiful.widget_batt_empty)
+            return args[2]
+        elseif args[2] < 25 then
+            batticon.bg_image = image(beautiful.widget_batt_low)
+            return args[2]
+        else
+            batticon.bg_image = image(beautiful.widget_batt_full)
+            return args[2]
+        end
+    end, 59, "BAT0")
 
 -- Create a systray
 mysystray = widget({ type = "systray" })
@@ -156,7 +204,7 @@ for s = 1, screen.count() do
                                           end, mytasklist.buttons)
 
     -- Create the wibox
-    mywibox[s] = awful.wibox({ position = "top", screen = s })
+    mywibox[s] = awful.wibox({ position = "top", screen = s, height = 16 })
     -- Add widgets to the wibox - order matters
     mywibox[s].widgets = {
         {
@@ -165,8 +213,13 @@ for s = 1, screen.count() do
             mypromptbox[s],
             layout = awful.widget.layout.horizontal.leftright
         },
-        mylayoutbox[s],
-        mytextclock,
+        mylayoutbox[s], separator,
+        mytextclock, separator,
+        battinfo, separator, batticon, separator, separator,
+        wifinfo, separator, wificon, separator, separator,
+        pacinfo, separator, pacicon, separator, separator,
+        spkrinfo, separator, spkricon, separator, separator,
+        kbs.widget, separator,
         s == 1 and mysystray or nil,
         mytasklist[s],
         layout = awful.widget.layout.horizontal.rightleft
@@ -184,6 +237,10 @@ root.buttons(awful.util.table.join(
 
 -- {{{ Key bindings
 globalkeys = awful.util.table.join(
+
+    -- Keyboard switch
+    awful.key({ modkey, "Mod1"     }, "space", function () kbs.switch() end),
+
     awful.key({ modkey,           }, "Left",   awful.tag.viewprev       ),
     awful.key({ modkey,           }, "Right",  awful.tag.viewnext       ),
     awful.key({ modkey,           }, "Escape", awful.tag.history.restore),
@@ -313,15 +370,23 @@ awful.rules.rules = {
                      focus = true,
                      keys = clientkeys,
                      buttons = clientbuttons } },
-    { rule = { class = "MPlayer" },
+    --[[{ rule = { class = "MPlayer" },
       properties = { floating = true } },
     { rule = { class = "pinentry" },
       properties = { floating = true } },
     { rule = { class = "gimp" },
-      properties = { floating = true } },
+      properties = { floating = true } }, ]]
     -- Set Firefox to always map on tags number 2 of screen 1.
-    -- { rule = { class = "Firefox" },
-    --   properties = { tag = tags[1][2] } },
+    { rule = { class = "Firefox" },
+      properties = { tag = tags[1][1] } },
+    { rule = { class = "Gvim" },
+      properties = { tag = tags[1][2] } },
+    { rule = { class = "URxvt" },
+      properties = { tag = tags[1][3] } },
+    { rule = { class = "Skype" },
+      properties = { tag = tags[1][4], floating = true } },
+    { rule = { class = "Vlc" },
+      properties = { tag = tags[1][4], floating = true } },
 }
 -- }}}
 
