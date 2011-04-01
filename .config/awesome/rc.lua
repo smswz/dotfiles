@@ -133,7 +133,7 @@ vicious.register(battinfo, vicious.widgets.bat,
         if args[2] < 10 then
             batticon.bg_image = image(beautiful.widget_batt_empty)
             return args[2]
-        elseif args[2] < 25 then
+        elseif args[2] < 35 then
             batticon.bg_image = image(beautiful.widget_batt_low)
             return args[2]
         else
