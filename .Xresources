@@ -1,28 +1,33 @@
 
 
-*foreground:    #DDDDDD
-*background:    #121212
+*foreground:        #d8e1e3
+*background:        #3f3f3f
 !black
-*color0:        #353535
-*color8:        #666666
+*color0:            #353535
+*color8:            #666666
 !red
-*color1:        #AE4747
-*color9:        #EE6363
+*color1:            #AE4747
+*color9:            #EE6363
 !green
-*color2:        #556B2F
-*color10:       #9ACD32
+*color2:            #556B2F
+*color10:           #9ACD32
 !brown/yellow
-*color3:        #DAA520
-*color11:       #FFC125
+*color3:            #DAA520
+*color11:           #FFC125
 !blue
-*color4:        #6F99B4
-*color12:       #7C96B0
+*color4:            #6F99B4
+*color12:           #7C96B0
 !magenta
-*color5:        #8B7B8B
-*color13:       #D8BFD8
+*color5:            #8B7B8B
+*color13:           #D8BFD8
 !cyan
-*color6:        #A7A15E
-*color14:       #F0E68C
+*color6:            #A7A15E
+*color14:           #F0E68C
 !white
-*color7:        #DDDDDD
-*color15:       #FFFFFF
+*color7:            #DDDDDD
+*color15:           #FFFFFF
+
+URxvt*depth:        32
+URxvt*transparent:  true
+URxvt*font:         xft:Envy Code R:pixelsize=13
+URxvt*scrollBar:    false
