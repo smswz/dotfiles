@@ -1,4 +1,4 @@
-colorscheme Twilight
+colorscheme molokai
 syntax on
 syntax enable
 " 4 space tab

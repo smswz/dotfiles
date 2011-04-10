@@ -14,7 +14,7 @@ terminal = "urxvt"
 editor = os.getenv("EDITOR") or "gvim"
 editor_cmd = terminal .. " -e " .. editor
 web_browser = "firefox"
-file_broser = web_browser .. " file:///"
+file_browser = web_browser .. " file:///"
 
 -- Default modkey.
 -- Usually, Mod4 is the key with a logo between Control and Alt.
@@ -77,14 +77,6 @@ spkricon = widget ({ type = "textbox" })
 spkricon.bg_image = image(beautiful.widget_spkr)
 spkricon.bg_align = "middle"
 spkricon.width = 8
-pacicon = widget ({ type = "textbox" })
-pacicon.bg_image = image(beautiful.widget_pacman)
-pacicon.bg_align = "middle"
-pacicon.width = 8
-wificon = widget ({ type = "textbox" })
-wificon.bg_image = image(beautiful.widget_wifi)
-wificon.bg_align = "middle"
-wificon.width = 8
 batticon = widget ({ type = "textbox" })
 batticon.bg_image = image(beautiful.widget_batt_full)
 batticon.bg_align = "middle"
@@ -92,9 +84,6 @@ batticon.width = 8
 
 -- Widgets
 spkrinfo = widget({ type = "textbox"})
-pacinfo = widget({ type = "textbox"})
-ethinfo = widget({ type = "textbox"})
-wifinfo = widget({ type = "textbox"})
 battinfo = widget({ type = "textbox"})
 
 -- Keyboard switcher
@@ -123,8 +112,6 @@ vicious.register(spkrinfo, vicious.widgets.volume,
         end
         return args[1]
     end, 2, "PCM")
-vicious.register(pacinfo, vicious.widgets.pkg, "$1", 301, "Arch")
-vicious.register(wifinfo, vicious.widgets.wifi, "${ssid}", 501)
 vicious.register(battinfo, vicious.widgets.bat,
     function (widget, args)
         if args[2] < 10 then
@@ -213,8 +200,6 @@ for s = 1, screen.count() do
         mylayoutbox[s], separator,
         mytextclock, separator,
         battinfo, separator, batticon, separator, separator,
-        wifinfo, separator, wificon, separator, separator,
-        pacinfo, separator, pacicon, separator, separator,
         spkrinfo, separator, spkricon, separator, separator,
         kbs.widget, separator,
         s == 1 and mysystray or nil,
