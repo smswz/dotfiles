@@ -1,39 +1,11 @@
 ! Colors
 
-!! My first colors
-!*foreground:        #d8e1e3
-!*background:        #3f3f3f
-!black
-!*color0:            #353535
-!*color8:            #666666
-!red
-!*color1:            #AE4747
-!*color9:            #EE6363
-!green
-!*color2:            #556B2F
-!*color10:           #9ACD32
-!brown/yellow
-!*color3:            #DAA520
-!*color11:           #FFC125
-!blue
-!*color4:            #6F99B4
-!*color12:           #7C96B0
-!magenta
-!*color5:            #8B7B8B
-!*color13:           #D8BFD8
-!cyan
-!*color6:            #A7A15E
-!*color14:           #F0E68C
-!white
-!*color7:            #DDDDDD
-!*color15:           #FFFFFF
-
 !! Molokai Theme
-*background: #101010
-*foreground: #d0d0d0
-*cursorColor: #d0d0d0
+*background: #202020
+*foreground: #b8b8b8
+*cursorColor: #b8b8b8
 !black
-*color0: #101010
+*color0: #202020
 *color8: #303030
 !red
 *color1: #960050
@@ -42,7 +14,7 @@
 *color2: #66aa11
 *color10: #80ff00
 !brown/yellow
-*color3: #c47f2c
+*color3: #fecf35
 *color11: #ffba68
 !blue
 *color4: #30309b
@@ -55,9 +27,10 @@
 *color14: #4eb4fa
 !white
 *color7: #9999aa
-*color15: #d0d0d0
+*color15: #b8b8b8
 
 URxvt*depth:        32
-URxvt*transparent:  true
-URxvt*font:         xft:Envy Code R:pixelsize=13
+URxvt*transparent:	true
+URxvt*shading:		30
+URxvt*font:         xft:Dejavu Sans Mono:size=8
 URxvt*scrollBar:    false

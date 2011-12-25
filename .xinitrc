@@ -1,6 +1,7 @@
-#!/bin/sh
-
-xrdb -merge ~/.Xresources
 setxkbmap -option 'ctrl:nocaps'
-xcompmgr &
-exec awesome
+if [ -f $HOME/.Xresources ]; then
+  xrdb -merge $HOME/.Xresources
+fi
+eval $(cat ~/.fehbg) &
+exec mpd &
+exec subtle

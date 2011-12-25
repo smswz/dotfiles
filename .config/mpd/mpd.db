@@ -1,0 +1,2305 @@
+info_begin
+format: 1
+mpd_version: 0.16.6
+fs_charset: UTF-8
+tag: Artist
+tag: Album
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+info_end
+song_begin: zircon - Antigravity - 01 Prelude.mp3
+Time: 72
+Artist: zircon
+Title: Prelude
+Album: Antigravity
+Track: 1
+Date: 2007
+mtime: 1322165505
+song_end
+song_begin: zircon - Antigravity - 02 Breathing You In -feat. Jillian Goldin-.mp3
+Time: 411
+Artist: zircon
+Title: Breathing You In [feat. Jillian Goldin]
+Album: Antigravity
+Track: 2
+Date: 2007
+mtime: 1322165505
+song_end
+song_begin: zircon - Antigravity - 03 Throwdown.mp3
+Time: 182
+Artist: zircon
+Title: Throwdown
+Album: Antigravity
+Track: 3
+Date: 2007
+mtime: 1322165505
+song_end
+song_begin: zircon - Antigravity - 04 Speed of Light.mp3
+Time: 238
+Artist: zircon
+Title: Speed of Light
+Album: Antigravity
+Track: 4
+Date: 2007
+mtime: 1322165505
+song_end
+song_begin: zircon - Antigravity - 05 Standpipe Valve.mp3
+Time: 230
+Artist: zircon
+Title: Standpipe Valve
+Album: Antigravity
+Track: 5
+Date: 2007
+mtime: 1322165506
+song_end
+song_begin: zircon - Antigravity - 06 Mindbender.mp3
+Time: 266
+Artist: zircon
+Title: Mindbender
+Album: Antigravity
+Track: 6
+Date: 2007
+mtime: 1322165506
+song_end
+song_begin: zircon - Antigravity - 07 Without Regret (Interlude).mp3
+Time: 94
+Artist: zircon
+Title: Without Regret (Interlude)
+Album: Antigravity
+Track: 7
+Date: 2007
+mtime: 1322165507
+song_end
+song_begin: zircon - Antigravity - 08 Depth Charge.mp3
+Time: 233
+Artist: zircon
+Title: Depth Charge
+Album: Antigravity
+Track: 8
+Date: 2007
+mtime: 1322165507
+song_end
+song_begin: zircon - Antigravity - 09 Warhead.mp3
+Time: 220
+Artist: zircon
+Title: Warhead
+Album: Antigravity
+Track: 9
+Date: 2007
+mtime: 1322165507
+song_end
+song_begin: zircon - Antigravity - 10 Ladder to the Sky.mp3
+Time: 251
+Artist: zircon
+Title: Ladder to the Sky
+Album: Antigravity
+Track: 10
+Date: 2007
+mtime: 1322165508
+song_end
+song_begin: zircon - Antigravity - 11 Nitronic.mp3
+Time: 264
+Artist: zircon
+Title: Nitronic
+Album: Antigravity
+Track: 11
+Date: 2007
+mtime: 1322165508
+song_end
+song_begin: zircon - Antigravity - 12 The Art of Zen.mp3
+Time: 311
+Artist: zircon
+Title: The Art of Zen
+Album: Antigravity
+Track: 12
+Date: 2007
+mtime: 1322165508
+song_end
+song_begin: zircon - Antigravity - 13 Antigravity -feat. Jillian Goldin-.mp3
+Time: 271
+Artist: zircon
+Title: Antigravity [feat. Jillian Goldin]
+Album: Antigravity
+Track: 13
+Date: 2007
+mtime: 1322165509
+song_end
+song_begin: 01 Upside Down.mp3
+Time: 320
+Artist: Bassnectar
+Title: Upside Down
+Album: Divergent Spectrum
+Track: 1
+Date: 2011
+Genre: Bass
+mtime: 1319573947
+song_end
+song_begin: 02 Rollz - Plugged In (Bassnectar Re.mp3
+Time: 277
+Artist: Bassnectar
+Title: Rollz - Plugged In (Bassnectar Remix)
+Album: Divergent Spectrum
+Track: 2
+Date: 2011
+Genre: Bass
+mtime: 1319573990
+song_end
+song_begin: 03 Gogol Bordello - Immigraniada.mp3
+Time: 276
+Artist: Bassnectar
+Title: Gogol Bordello - Immigraniada
+Album: Divergent Spectrum
+Track: 3
+Date: 2011
+Genre: Bass
+mtime: 1319574080
+song_end
+song_begin: 04 Boomerang.mp3
+Time: 265
+Artist: Bassnectar
+Title: Boomerang
+Album: Divergent Spectrum
+Track: 4
+Date: 2011
+Genre: Bass
+mtime: 1319573966
+song_end
+song_begin: 05 Ellie Goulding - Lights (Bassnect.mp3
+Time: 305
+Artist: Bassnectar
+Title: Ellie Goulding - Lights (Bassnectar Remix)
+Album: Divergent Spectrum
+Track: 5
+Date: 2011
+Genre: Bass
+mtime: 1319574075
+song_end
+song_begin: 06 Bassnectar & ill.Gates - Probable.mp3
+Time: 229
+Artist: Bassnectar
+Title: Bassnectar & ill.Gates - Probable Cause
+Album: Divergent Spectrum
+Track: 6
+Date: 2011
+Genre: Bass
+mtime: 1319573992
+song_end
+song_begin: 07 Bassnectar & Jantsen - Red Step.mp3
+Time: 300
+Artist: Bassnectar
+Title: Bassnectar & Jantsen - Red Step
+Album: Divergent Spectrum
+Track: 7
+Date: 2011
+Genre: Bass
+mtime: 1319574084
+song_end
+song_begin: 08 The Matrix.mp3
+Time: 267
+Artist: Bassnectar
+Title: The Matrix
+Album: Divergent Spectrum
+Track: 8
+Date: 2011
+Genre: Bass
+mtime: 1319574111
+song_end
+song_begin: 09 Voodoo.mp3
+Time: 361
+Artist: Bassnectar
+Title: Voodoo
+Album: Divergent Spectrum
+Track: 9
+Date: 2011
+Genre: Bass
+mtime: 1319574057
+song_end
+song_begin: 10 Heads Up [2011 Version].mp3
+Time: 274
+Artist: Bassnectar
+Title: Heads Up [2011 Version]
+Album: Divergent Spectrum
+Track: 10
+Date: 2011
+Genre: Bass
+mtime: 1319574061
+song_end
+song_begin: 11 Paging Stereophonic.mp3
+Time: 274
+Artist: Bassnectar
+Title: Paging Stereophonic
+Album: Divergent Spectrum
+Track: 11
+Date: 2011
+Genre: Bass
+mtime: 1319574086
+song_end
+song_begin: 12 Bassnectar & Seth Drake - Above &.mp3
+Time: 238
+Artist: Bassnectar
+Title: Bassnectar & Seth Drake - Above & Beyond
+Album: Divergent Spectrum
+Track: 12
+Date: 2011
+Genre: Bass
+mtime: 1319574101
+song_end
+song_begin: 13 Parade Into Centuries.mp3
+Time: 234
+Artist: Bassnectar
+Title: Parade Into Centuries
+Album: Divergent Spectrum
+Track: 13
+Date: 2011
+Genre: Bass
+mtime: 1319574110
+song_end
+song_begin: 14 After Thought.mp3
+Time: 240
+Artist: Bassnectar
+Title: After Thought
+Album: Divergent Spectrum
+Track: 14
+Date: 2011
+Genre: Bass
+mtime: 1319573946
+song_end
+song_begin: 01 - Good Girl.mp3
+Time: 221
+Artist: Benny Benassi
+Title: Good Girl
+Album: Electroman
+Track: 1/14
+Date: 2011
+Genre: Dance & DJ
+Disc: 1/1
+mtime: 1324577840
+song_end
+song_begin: 02 - Rather Be.mp3
+Time: 223
+Artist: Benny Benassi feat. Shanell
+Title: Rather Be
+Album: Electroman
+Track: 2/14
+Date: 2011
+Genre: Dance & DJ
+Disc: 1/1
+mtime: 1324577875
+song_end
+song_begin: 03 - Spaceship (UK Radio Edit).mp3
+Time: 184
+Artist: Benny Benassi Feat. Kelis, Apl.De.Ap & Jean-Baptiste
+Title: Spaceship (UK Radio Edit)
+Album: Electroman
+Track: 3/14
+Date: 2011
+Genre: Dance & DJ
+Disc: 1/1
+mtime: 1324577888
+song_end
+song_begin: 04 - Beautiful People (Feat. Benny Benassi) (Radio Edit).mp3
+Time: 226
+Artist: Chris Brown
+Title: Beautiful People (Feat. Benny Benassi) (Radio Edit)
+Album: Electroman
+Track: 4/14
+Date: 2011
+Genre: Dance & DJ
+Composer: Chris Brown, Marco Benassi, Alessandro Benassi, Jean Baptiste
+Disc: 1/1
+mtime: 1324577801
+song_end
+song_begin: 05 - My House.mp3
+Time: 208
+Artist: Benny Benassi feat. Jean-Baptiste
+Title: My House
+Album: Electroman
+Track: 5/14
+Date: 2011
+Genre: Dance & DJ
+Disc: 1/1
+mtime: 1324577863
+song_end
+song_begin: 06 - House Music.mp3
+Time: 242
+Artist: Benny Benassi
+Title: House Music
+Album: Electroman
+Track: 6/14
+Date: 2011
+Genre: Dance & DJ
+Disc: 1/1
+mtime: 1324577854
+song_end
+song_begin: 07 - Cinema (Feat. Gary Go) (Radio Edit).mp3
+Time: 183
+Artist: Benny Benassi
+Title: Cinema (Feat. Gary Go) (Radio Edit)
+Album: Electroman
+Track: 7/14
+Date: 2011
+Genre: Dance & DJ
+Composer: Alle and Benny Benassi
+Disc: 1/1
+mtime: 1324577804
+song_end
+song_begin: 08 - Electroman (Feat. T-Pain) (Clean Radio Edit).mp3
+Time: 197
+Artist: Benny Benassi
+Title: Electroman (Feat. T-Pain) (Clean Radio Edit)
+Album: Electroman
+Track: 8/14
+Date: 2011
+Genre: Dance & DJ
+Composer: Alle Benassi, Benny Benassi, T-Pain, Tremaine Winfrey
+Disc: 1/1
+mtime: 1324577823
+song_end
+song_begin: 09 - Automatic B.mp3
+Time: 242
+Artist: Benny Benassi
+Title: Automatic B
+Album: Electroman
+Track: 9/14
+Date: 2011
+Genre: Dance & DJ
+Disc: 1/1
+mtime: 1324577793
+song_end
+song_begin: 10 - Control.mp3
+Time: 209
+Artist: Benny Benassi feat. Gary Go
+Title: Control
+Album: Electroman
+Track: 10/14
+Date: 2011
+Genre: Dance & DJ
+Disc: 1/1
+mtime: 1324577819
+song_end
+song_begin: 11 - Leave This Club Alone.mp3
+Time: 215
+Artist: Benny Benassi feat. Dhany
+Title: Leave This Club Alone
+Album: Electroman
+Track: 11/14
+Date: 2011
+Genre: Dance & DJ
+Disc: 1/1
+mtime: 1324577860
+song_end
+song_begin: 12 - Close To Me.mp3
+Time: 201
+Artist: Benny Benassi feat. Gary Go
+Title: Close To Me
+Album: Electroman
+Track: 12/14
+Date: 2011
+Genre: Dance & DJ
+Disc: 1/1
+mtime: 1324577814
+song_end
+song_begin: 13 - Cinema (Feat. Gary Go) (Skrillex Remix).mp3
+Time: 308
+Artist: Benny Benassi
+Title: Cinema (Feat. Gary Go) (Skrillex Remix)
+Album: Electroman
+Track: 13/14
+Date: 2011
+Genre: Dance & DJ
+Composer: Alle and Benny Benassi
+Disc: 1/1
+mtime: 1324577810
+song_end
+song_begin: 14 - All The Way (Live).mp3
+Time: 214
+Artist: Benny Benassi feat. Ying Yang Twins
+Title: All The Way (Live)
+Album: Electroman
+Track: 14/14
+Date: 2011
+Genre: Dance & DJ
+Disc: 1/1
+mtime: 1324577786
+song_end
+song_begin: 06 - Gimme Sympathy.mp3
+Time: 235
+Artist: Metric
+Title: Gimme Sympathy
+Album: Fantasies
+Track: 6/10
+Date: 2009
+Genre: Alternative Rock
+Disc: 1/1
+mtime: 1324577828
+song_end
+song_begin: 01 FML.m4a
+Time: 396
+Title: FML
+Artist: Deadmau5
+Album: For Lack of a Better Name (Bonus Track Version)
+Genre: Dance
+Track: 1
+Disc: 1
+Date: 2009-09-22T07:00:00Z
+mtime: 1319356078
+song_end
+song_begin: 02 Moar Ghosts 'n' Stuff.m4a
+Time: 270
+Title: Moar Ghosts 'n' Stuff
+Artist: Deadmau5
+Album: For Lack of a Better Name (Bonus Track Version)
+Genre: Dance
+Track: 2
+Disc: 1
+Date: 2009-09-22T07:00:00Z
+mtime: 1319356073
+song_end
+song_begin: 03 Ghosts 'n' Stuff (feat. Rob Swire.m4a
+Time: 195
+Title: Ghosts 'n' Stuff (feat. Rob Swire)
+Artist: Deadmau5
+Album: For Lack of a Better Name (Bonus Track Version)
+Genre: Dance
+Track: 3
+Disc: 1
+Date: 2009-09-22T07:00:00Z
+mtime: 1319356083
+song_end
+song_begin: 04 Hi Friend! (feat. MC Flipside).m4a
+Time: 315
+Title: Hi Friend! (feat. MC Flipside)
+Artist: Deadmau5
+Album: For Lack of a Better Name (Bonus Track Version)
+Genre: Dance
+Track: 4
+Disc: 1
+Date: 2009-09-22T07:00:00Z
+mtime: 1319356095
+song_end
+song_begin: 05 Bot.m4a
+Time: 322
+Title: Bot
+Artist: Deadmau5
+Album: For Lack of a Better Name (Bonus Track Version)
+Genre: Dance
+Track: 5
+Disc: 1
+Date: 2009-09-22T07:00:00Z
+mtime: 1319356100
+song_end
+song_begin: 06 Word Problems.m4a
+Time: 469
+Title: Word Problems
+Artist: Deadmau5
+Album: For Lack of a Better Name (Bonus Track Version)
+Genre: Dance
+Track: 6
+Disc: 1
+Date: 2009-09-22T07:00:00Z
+mtime: 1319356114
+song_end
+song_begin: 07 Soma.m4a
+Time: 368
+Title: Soma
+Artist: Deadmau5
+Album: For Lack of a Better Name (Bonus Track Version)
+Genre: Dance
+Track: 7
+Disc: 1
+Date: 2009-09-22T07:00:00Z
+mtime: 1319356121
+song_end
+song_begin: 08 Lack of a Better Name.m4a
+Time: 418
+Title: Lack of a Better Name
+Artist: Deadmau5
+Album: For Lack of a Better Name (Bonus Track Version)
+Genre: Dance
+Track: 8
+Disc: 1
+Date: 2009-09-22T07:00:00Z
+mtime: 1319356132
+song_end
+song_begin: 09 The 16th Hour.m4a
+Time: 569
+Title: The 16th Hour
+Artist: Deadmau5
+Album: For Lack of a Better Name (Bonus Track Version)
+Genre: Dance
+Track: 9
+Disc: 1
+Date: 2009-09-22T07:00:00Z
+mtime: 1319356166
+song_end
+song_begin: 10 Strobe.m4a
+Time: 637
+Title: Strobe
+Artist: Deadmau5
+Album: For Lack of a Better Name (Bonus Track Version)
+Genre: Dance
+Track: 10
+Disc: 1
+Date: 2009-09-22T07:00:00Z
+mtime: 1319356176
+song_end
+song_begin: 11 Ghosts 'n' Stuff (Nero Remix) [Bo.m4a
+Time: 416
+Title: Ghosts 'n' Stuff (Nero Remix) [Bonus Track]
+Artist: Deadmau5
+Album: For Lack of a Better Name (Bonus Track Version)
+Genre: Dance
+Track: 11
+Disc: 1
+Date: 2009-09-22T07:00:00Z
+mtime: 1319356171
+song_end
+song_begin: 01 - Give Me Everything.mp3
+Time: 256
+Artist: Pitbull feat. Ne-Yo, Afrojack & Nayer
+Title: Give Me Everything
+Album: Give Me Everything
+Track: 1/1
+Date: 2011
+Genre: Pop
+Composer: Shaffer Smith
+Disc: 1/1
+mtime: 1324577834
+song_end
+song_begin: 01 - Homeless.mp3
+Time: 470
+Artist: Fatali
+Title: Homeless
+Album: Homeless - Promo
+Track: 1/1
+Date: 2010
+Genre: Dance & DJ
+Performer: Fatali
+Disc: 1/1
+mtime: 1324577847
+song_end
+song_begin: 01 Genesis.mp3
+Time: 70
+Artist: Pendulum
+Title: Genesis
+Album: Immersion
+Track: 1/15
+Date: 2010
+Genre: Electronic
+Disc: 1/1
+mtime: 1319574225
+song_end
+song_begin: 02 Salt In the Wounds.mp3
+Time: 399
+Artist: Pendulum
+Title: Salt In the Wounds
+Album: Immersion
+Track: 2/15
+Date: 2010
+Genre: Electronic
+Disc: 1/1
+mtime: 1319574272
+song_end
+song_begin: 03 Watercolour.mp3
+Time: 304
+Artist: Pendulum
+Title: Watercolour
+Album: Immersion
+Track: 3/15
+Date: 2010
+Genre: Electronic
+Disc: 1/1
+mtime: 1319574318
+song_end
+song_begin: 04 Set Me On Fire.mp3
+Time: 303
+Artist: Pendulum
+Title: Set Me On Fire
+Album: Immersion
+Track: 4/15
+Date: 2010
+Genre: Electronic
+Disc: 1/1
+mtime: 1319574629
+song_end
+song_begin: 05 Crush.mp3
+Time: 254
+Artist: Pendulum
+Title: Crush
+Album: Immersion
+Track: 5/15
+Date: 2010
+Genre: Electronic
+Disc: 1/1
+mtime: 1319574634
+song_end
+song_begin: 06 Under the Waves.mp3
+Time: 295
+Artist: Pendulum
+Title: Under the Waves
+Album: Immersion
+Track: 6/15
+Date: 2010
+Genre: Electronic
+Disc: 1/1
+mtime: 1319574463
+song_end
+song_begin: 07 Immunize (feat. Liam Howlett).mp3
+Time: 277
+Artist: Pendulum
+Title: Immunize (feat. Liam Howlett)
+Album: Immersion
+Track: 7/15
+Date: 2010
+Genre: Electronic
+Disc: 1/1
+mtime: 1319574641
+song_end
+song_begin: 08 The Island, Pt. I (Dawn).mp3
+Time: 320
+Artist: Pendulum
+Title: The Island, Pt. I (Dawn)
+Album: Immersion
+Track: 8/15
+Date: 2010
+Genre: Electronic
+Disc: 1/1
+mtime: 1319574350
+song_end
+song_begin: 09 The Island, Pt. II (Dusk).mp3
+Time: 250
+Artist: Pendulum
+Title: The Island, Pt. II (Dusk)
+Album: Immersion
+Track: 9/15
+Date: 2010
+Genre: Electronic
+Disc: 1/1
+mtime: 1319574382
+song_end
+song_begin: 10 Comprachicos.mp3
+Time: 169
+Artist: Pendulum
+Title: Comprachicos
+Album: Immersion
+Track: 10/15
+Date: 2010
+Genre: Electronic
+Disc: 1/1
+mtime: 1319574523
+song_end
+song_begin: 11 The Vulture.mp3
+Time: 243
+Artist: Pendulum
+Title: The Vulture
+Album: Immersion
+Track: 11/15
+Date: 2010
+Genre: Electronic
+Disc: 1/1
+mtime: 1319574535
+song_end
+song_begin: 12 Witchcraft.mp3
+Time: 253
+Artist: Pendulum
+Title: Witchcraft
+Album: Immersion
+Track: 12/15
+Date: 2010
+Genre: Electronic
+Disc: 1/1
+mtime: 1319574558
+song_end
+song_begin: 13 Self vs. Self (feat. In Flames).mp3
+Time: 286
+Artist: Pendulum
+Title: Self vs. Self (feat. In Flames)
+Album: Immersion
+Track: 13/15
+Date: 2010
+Genre: Electronic
+Disc: 1/1
+mtime: 1319574573
+song_end
+song_begin: 14 The Fountain (feat. Steven Wilson.mp3
+Time: 301
+Artist: Pendulum
+Title: The Fountain (feat. Steven Wilson)
+Album: Immersion
+Track: 14/15
+Date: 2010
+Genre: Electronic
+Disc: 1/1
+mtime: 1319574614
+song_end
+song_begin: 15 Encoder.mp3
+Time: 323
+Artist: Pendulum
+Title: Encoder
+Album: Immersion
+Track: 15/15
+Date: 2010
+Genre: Electronic
+Disc: 1/1
+mtime: 1319574622
+song_end
+song_begin: 01 Kaleidoscope (feat. Jónsi).m4a
+Time: 456
+Title: Kaleidoscope (feat. Jónsi)
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 1
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1320777729
+song_end
+song_begin: 02 Escape Me (feat. C.C. Sheffield).m4a
+Time: 258
+Title: Escape Me (feat. C.C. Sheffield)
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 2
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1319356511
+song_end
+song_begin: 03 You Are My Diamond (feat. Kianna).m4a
+Time: 251
+Title: You Are My Diamond (feat. Kianna)
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 3
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1319356518
+song_end
+song_begin: 04 I Will Be Here (feat. Sneaky Soun.m4a
+Time: 206
+Title: I Will Be Here (feat. Sneaky Sound System)
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 4
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1319356522
+song_end
+song_begin: 05 I Am Strong (feat. Priscilla Ahn).m4a
+Time: 339
+Title: I Am Strong (feat. Priscilla Ahn)
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 5
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1320777773
+song_end
+song_begin: 06 Here On Earth (feat. Cary Brother.m4a
+Time: 296
+Title: Here On Earth (feat. Cary Brothers)
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 6
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1319356542
+song_end
+song_begin: 07 Always Near.m4a
+Time: 94
+Title: Always Near
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 7
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1319356533
+song_end
+song_begin: 08 It's Not the Things You Say (feat.m4a
+Time: 195
+Title: It's Not the Things You Say (feat. Kele Okereke)
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 8
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1319356549
+song_end
+song_begin: 09 Fresh Fruit.m4a
+Time: 324
+Title: Fresh Fruit
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 9
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1320777787
+song_end
+song_begin: 10 Century (feat. Calvin Harris).m4a
+Time: 282
+Title: Century (feat. Calvin Harris)
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 10
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1320777789
+song_end
+song_begin: 11 Feel It In My Bones (feat. Tegan.m4a
+Time: 292
+Title: Feel It In My Bones (feat. Tegan and Sara)
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 11
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1319356571
+song_end
+song_begin: 12 Who Wants to Be Alone (feat. Nell.m4a
+Time: 276
+Title: Who Wants to Be Alone (feat. Nelly Furtado)
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 12
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1319356586
+song_end
+song_begin: 13 LA Ride.m4a
+Time: 253
+Title: LA Ride
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 13
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1319356584
+song_end
+song_begin: 14 Bend It Like You Don't Care.m4a
+Time: 204
+Title: Bend It Like You Don't Care
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 14
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1319356589
+song_end
+song_begin: 15 Knock You Out (feat. Emily Haines.m4a
+Time: 307
+Title: Knock You Out (feat. Emily Haines)
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 15
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1320777815
+song_end
+song_begin: 16 Louder Than Boom.m4a
+Time: 250
+Title: Louder Than Boom
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 16
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1319356607
+song_end
+song_begin: 17 Surrounded By Light.m4a
+Time: 160
+Title: Surrounded By Light
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 17
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1319356602
+song_end
+song_begin: 18 Organised Chaos (Bonus Track).m4a
+Time: 312
+Title: Organised Chaos (Bonus Track)
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 18
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1320777827
+song_end
+song_begin: 19 Bad Behavior (feat. Dizzee Rascal.m4a
+Time: 270
+Title: Bad Behavior (feat. Dizzee Rascal) [Bonus Track]
+Artist: Tiësto
+Album: Kaleidoscope (Bonus Track Version)
+Genre: Dance
+Track: 19
+Disc: 1
+Date: 2009-10-06T07:00:00Z
+mtime: 1319356630
+song_end
+song_begin: 01 Basique.m4a
+Time: 218
+Title: Basique
+Artist: Little People
+Album: Mickey Mouse Operation
+Genre: Electronic
+Track: 1
+Disc: 1
+Date: 2006-09-04T07:00:00Z
+mtime: 1262628863
+song_end
+song_begin: 02 Moon.m4a
+Time: 228
+Title: Moon
+Artist: Little People
+Album: Mickey Mouse Operation
+Genre: Electronic
+Track: 2
+Disc: 1
+Date: 2006-09-04T07:00:00Z
+mtime: 1262628865
+song_end
+song_begin: 03 Unsaid.m4a
+Time: 228
+Title: Unsaid
+Artist: Little People
+Album: Mickey Mouse Operation
+Genre: Electronic
+Track: 3
+Disc: 1
+Date: 2006-09-04T07:00:00Z
+mtime: 1262628863
+song_end
+song_begin: 04 Eitheror.m4a
+Time: 345
+Title: Eitheror
+Artist: Little People
+Album: Mickey Mouse Operation
+Genre: Electronic
+Track: 4
+Disc: 1
+Date: 2006-09-04T07:00:00Z
+mtime: 1262628881
+song_end
+song_begin: 05 Above the Clouds.m4a
+Time: 230
+Title: Above the Clouds
+Artist: Little People
+Album: Mickey Mouse Operation
+Genre: Electronic
+Track: 5
+Disc: 1
+Date: 2006-09-04T07:00:00Z
+mtime: 1262628880
+song_end
+song_begin: 06 Breathe Again.m4a
+Time: 241
+Title: Breathe Again
+Artist: Little People, Little People ft. Rachael Roberts & Rachael Roberts
+Album: Mickey Mouse Operation
+Genre: Electronic
+Track: 6
+Disc: 1
+Date: 2006-09-04T07:00:00Z
+mtime: 1262628881
+song_end
+song_begin: 07 Intermezzo.m4a
+Time: 38
+Title: Intermezzo
+Artist: Little People
+Album: Mickey Mouse Operation
+Genre: Electronic
+Track: 7
+Disc: 1
+Date: 2006-09-04T07:00:00Z
+mtime: 1262628884
+song_end
+song_begin: 08 Idiom.m4a
+Time: 346
+Title: Idiom
+Artist: Little People
+Album: Mickey Mouse Operation
+Genre: Electronic
+Track: 8
+Disc: 1
+Date: 2006-09-04T07:00:00Z
+mtime: 1262628901
+song_end
+song_begin: 09 Inutile Et Indispensable.m4a
+Time: 298
+Title: Inutile Et Indispensable
+Artist: Little People
+Album: Mickey Mouse Operation
+Genre: Electronic
+Track: 9
+Disc: 1
+Date: 2006-09-04T07:00:00Z
+mtime: 1262628899
+song_end
+song_begin: 10 Last Fare.m4a
+Time: 165
+Title: Last Fare
+Artist: Little People
+Album: Mickey Mouse Operation
+Genre: Electronic
+Track: 10
+Disc: 1
+Date: 2006-09-04T07:00:00Z
+mtime: 1262628897
+song_end
+song_begin: 11 Fisticuffs At Dawn.m4a
+Time: 62
+Title: Fisticuffs At Dawn
+Artist: Little People
+Album: Mickey Mouse Operation
+Genre: Electronic
+Track: 11
+Disc: 1
+Date: 2006-09-04T07:00:00Z
+mtime: 1262628900
+song_end
+song_begin: 12 Behind Closed Doors (Edit).m4a
+Time: 310
+Title: Behind Closed Doors (Edit)
+Artist: Little People
+Album: Mickey Mouse Operation
+Genre: Electronic
+Track: 12
+Disc: 1
+Date: 2006-09-04T07:00:00Z
+mtime: 1262628917
+song_end
+song_begin: 13 Start Shootin'.m4a
+Time: 217
+Title: Start Shootin'
+Artist: Little People
+Album: Mickey Mouse Operation
+Genre: Electronic
+Track: 13
+Disc: 1
+Date: 2006-09-04T07:00:00Z
+mtime: 1262628914
+song_end
+song_begin: 14 Gravitas.m4a
+Time: 151
+Title: Gravitas
+Artist: Little People
+Album: Mickey Mouse Operation
+Genre: Electronic
+Track: 14
+Disc: 1
+Date: 2006-09-04T07:00:00Z
+mtime: 1262628911
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 01 Key.mp3
+Time: 65
+Artist: C418
+Title: Key
+Album: Minecraft - Volume Alpha
+Track: 1
+Date: 2011
+mtime: 1322120843
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 02 Door.mp3
+Time: 111
+Artist: C418
+Title: Door
+Album: Minecraft - Volume Alpha
+Track: 2
+Date: 2011
+mtime: 1322120843
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 03 Subwoofer Lullaby.mp3
+Time: 209
+Artist: C418
+Title: Subwoofer Lullaby
+Album: Minecraft - Volume Alpha
+Track: 3
+Date: 2011
+mtime: 1322120843
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 04 Death.mp3
+Time: 42
+Artist: C418
+Title: Death
+Album: Minecraft - Volume Alpha
+Track: 4
+Date: 2011
+mtime: 1322120843
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 05 Living Mice.mp3
+Time: 178
+Artist: C418
+Title: Living Mice
+Album: Minecraft - Volume Alpha
+Track: 5
+Date: 2011
+mtime: 1322120843
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 06 Moog City.mp3
+Time: 160
+Artist: C418
+Title: Moog City
+Album: Minecraft - Volume Alpha
+Track: 6
+Date: 2011
+mtime: 1322120843
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 07 Haggstrom.mp3
+Time: 204
+Artist: C418
+Title: Haggstrom
+Album: Minecraft - Volume Alpha
+Track: 7
+Date: 2011
+mtime: 1322120843
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 08 Minecraft.mp3
+Time: 254
+Artist: C418
+Title: Minecraft
+Album: Minecraft - Volume Alpha
+Track: 8
+Date: 2011
+mtime: 1322120843
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 09 Oxygène.mp3
+Time: 65
+Artist: C418
+Title: Oxygène
+Album: Minecraft - Volume Alpha
+Track: 9
+Date: 2011
+mtime: 1322120843
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 10 Équinoxe.mp3
+Time: 115
+Artist: C418
+Title: Équinoxe
+Album: Minecraft - Volume Alpha
+Track: 10
+Date: 2011
+mtime: 1322120843
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 11 Mice on Venus.mp3
+Time: 282
+Artist: C418
+Title: Mice on Venus
+Album: Minecraft - Volume Alpha
+Track: 11
+Date: 2011
+mtime: 1322120843
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 12 Dry Hands.mp3
+Time: 69
+Artist: C418
+Title: Dry Hands
+Album: Minecraft - Volume Alpha
+Track: 12
+Date: 2011
+mtime: 1322120843
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 13 Wet Hands.mp3
+Time: 90
+Artist: C418
+Title: Wet Hands
+Album: Minecraft - Volume Alpha
+Track: 13
+Date: 2011
+mtime: 1322120844
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 14 Clark.mp3
+Time: 192
+Artist: C418
+Title: Clark
+Album: Minecraft - Volume Alpha
+Track: 14
+Date: 2011
+mtime: 1322120844
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 15 Chris.mp3
+Time: 88
+Artist: C418
+Title: Chris
+Album: Minecraft - Volume Alpha
+Track: 15
+Date: 2011
+mtime: 1322120844
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 16 Thirteen.mp3
+Time: 177
+Artist: C418
+Title: Thirteen
+Album: Minecraft - Volume Alpha
+Track: 16
+Date: 2011
+mtime: 1322120844
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 17 Excuse.mp3
+Time: 124
+Artist: C418
+Title: Excuse
+Album: Minecraft - Volume Alpha
+Track: 17
+Date: 2011
+mtime: 1322120844
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 18 Sweden.mp3
+Time: 216
+Artist: C418
+Title: Sweden
+Album: Minecraft - Volume Alpha
+Track: 18
+Date: 2011
+mtime: 1322120844
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 19 Cat.mp3
+Time: 186
+Artist: C418
+Title: Cat
+Album: Minecraft - Volume Alpha
+Track: 19
+Date: 2011
+mtime: 1322120844
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 20 Dog.mp3
+Time: 146
+Artist: C418
+Title: Dog
+Album: Minecraft - Volume Alpha
+Track: 20
+Date: 2011
+mtime: 1322120844
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 21 Danny.mp3
+Time: 255
+Artist: C418
+Title: Danny
+Album: Minecraft - Volume Alpha
+Track: 21
+Date: 2011
+mtime: 1322120845
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 22 Beginning.mp3
+Time: 102
+Artist: C418
+Title: Beginning
+Album: Minecraft - Volume Alpha
+Track: 22
+Date: 2011
+mtime: 1322120845
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 23 Droopy likes ricochet.mp3
+Time: 96
+Artist: C418
+Title: Droopy likes ricochet
+Album: Minecraft - Volume Alpha
+Track: 23
+Date: 2011
+mtime: 1322120845
+song_end
+song_begin: C418 - Minecraft - Volume Alpha - 24 Droopy likes your face.mp3
+Time: 117
+Artist: C418
+Title: Droopy likes your face
+Album: Minecraft - Volume Alpha
+Track: 24
+Date: 2011
+mtime: 1322120845
+song_end
+song_begin: 01 Woo Boost.mp3
+Time: 250
+Artist: Rusko
+Title: Woo Boost
+Album: O.M.G.!
+Track: 1/14
+Date: 2010
+Genre: Dubstep
+Composer: Christopher Mercer
+Disc: 1/1
+mtime: 1321647666
+song_end
+song_begin: 02 Hold On (ft. Amber Coffman).mp3
+Time: 275
+Artist: Rusko
+Title: Hold On (ft. Amber Coffman)
+Album: O.M.G.!
+Track: 2/14
+Date: 2010
+Genre: Dubstep
+Composer: Christopher Mercer
+Disc: 1/1
+mtime: 1321647179
+song_end
+song_begin: 03 Rubadub Shakedown (ft. Rod Azlan).mp3
+Time: 219
+Artist: Rusko
+Title: Rubadub Shakedown (ft. Rod Azlan)
+Album: O.M.G.!
+Track: 3/14
+Date: 2010
+Genre: Dubstep
+Composer: Christopher Mercer
+Disc: 1/1
+mtime: 1321647231
+song_end
+song_begin: 04 Dial My Number.mp3
+Time: 308
+Artist: Rusko
+Title: Dial My Number
+Album: O.M.G.!
+Track: 4/14
+Date: 2010
+Genre: Dubstep
+Composer: Christopher Mercer
+Disc: 1/1
+mtime: 1321647255
+song_end
+song_begin: 05 I Love You.mp3
+Time: 184
+Artist: Rusko
+Title: I Love You
+Album: O.M.G.!
+Track: 5/14
+Date: 2010
+Genre: Dubstep
+Composer: Christopher Mercer
+Disc: 1/1
+mtime: 1321646766
+song_end
+song_begin: 06 Kumon Kumon.mp3
+Time: 207
+Artist: Rusko
+Title: Kumon Kumon
+Album: O.M.G.!
+Track: 6/14
+Date: 2010
+Genre: Dubstep
+Composer: Christopher Mercer
+Disc: 1/1
+mtime: 1321646991
+song_end
+song_begin: 07 Scareware.mp3
+Time: 284
+Artist: Rusko
+Title: Scareware
+Album: O.M.G.!
+Track: 7/14
+Date: 2010
+Genre: Dubstep
+Composer: Christopher Mercer
+Disc: 1/1
+mtime: 1321647319
+song_end
+song_begin: 08 Raver's Special.mp3
+Time: 277
+Artist: Rusko
+Title: Raver's Special
+Album: O.M.G.!
+Track: 8/14
+Date: 2010
+Genre: Dubstep
+Composer: Christopher Mercer
+Disc: 1/1
+mtime: 1321647325
+song_end
+song_begin: 09 Feels So Real (ft. Ben Westbeech).mp3
+Time: 211
+Artist: Rusko
+Title: Feels So Real (ft. Ben Westbeech)
+Album: O.M.G.!
+Track: 9/14
+Date: 2010
+Genre: Dubstep
+Composer: Christopher Mercer
+Disc: 1/1
+mtime: 1321647577
+song_end
+song_begin: 10 You're On My Mind Baby.mp3
+Time: 243
+Artist: Rusko
+Title: You're On My Mind Baby
+Album: O.M.G.!
+Track: 10/14
+Date: 2010
+Genre: Dubstep
+Composer: Christopher Mercer
+Disc: 1/1
+mtime: 1321647584
+song_end
+song_begin: 11 Got Da Groove (ft. Gucci Mane).mp3
+Time: 192
+Artist: Rusko
+Title: Got Da Groove (ft. Gucci Mane)
+Album: O.M.G.!
+Track: 11/14
+Date: 2010
+Genre: Dubstep
+Composer: Christopher Mercer
+Disc: 1/1
+mtime: 1321646563
+song_end
+song_begin: 12 Oy (ft. Crookers).mp3
+Time: 238
+Artist: Rusko
+Title: Oy (ft. Crookers)
+Album: O.M.G.!
+Track: 12/14
+Date: 2010
+Genre: Dubstep
+Composer: Christopher Mercer
+Disc: 1/1
+mtime: 1321647661
+song_end
+song_begin: 13 My Mouth.mp3
+Time: 265
+Artist: Rusko
+Title: My Mouth
+Album: O.M.G.!
+Track: 13/14
+Date: 2010
+Genre: Dubstep
+Composer: Christopher Mercer
+Disc: 1/1
+mtime: 1321647505
+song_end
+song_begin: 14 District Line.mp3
+Time: 274
+Artist: Rusko
+Title: District Line
+Album: O.M.G.!
+Track: 14/14
+Date: 2010
+Genre: Dubstep
+Composer: Christopher Mercer
+Disc: 1/1
+mtime: 1321647637
+song_end
+song_begin: 14 - Super Bass [Explicit].mp3
+Time: 200
+Artist: Nicki Minaj
+Title: Super Bass [Explicit]
+Album: Pink Friday (Deluxe Version) [Explicit]
+Track: 14/16
+Date: 2010
+Genre: Rap & Hip-Hop
+Composer: D. Johnson
+Disc: 1/1
+mtime: 1324577902
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 01 Scourge of Estellion.mp3
+Time: 155
+Artist: Josh Whelchel
+Title: Scourge of Estellion
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 1
+Date: 2011
+mtime: 1321217850
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 02 Grievous Affairs.mp3
+Time: 92
+Artist: Josh Whelchel
+Title: Grievous Affairs
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 2
+Date: 2011
+mtime: 1321217850
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 03 The Invocati.mp3
+Time: 71
+Artist: Josh Whelchel
+Title: The Invocati
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 3
+Date: 2011
+mtime: 1321217850
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 04 Gallant Hero Callius.mp3
+Time: 138
+Artist: Josh Whelchel
+Title: Gallant Hero Callius
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 4
+Date: 2011
+mtime: 1321217850
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 05 Respite.mp3
+Time: 77
+Artist: Josh Whelchel
+Title: Respite
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 5
+Date: 2011
+mtime: 1321217850
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 06 Imperial Affairs.mp3
+Time: 110
+Artist: Josh Whelchel
+Title: Imperial Affairs
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 6
+Date: 2011
+mtime: 1321217850
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 07 They Came from Shadow.mp3
+Time: 66
+Artist: Josh Whelchel
+Title: They Came from Shadow
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 7
+Date: 2011
+mtime: 1321217850
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 08 Apoplectic (Estellion Battle A).mp3
+Time: 201
+Artist: Josh Whelchel
+Title: Apoplectic (Estellion Battle A)
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 8
+Date: 2011
+mtime: 1321217850
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 09 Fanfare.mp3
+Time: 34
+Artist: Josh Whelchel
+Title: Fanfare
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 9
+Date: 2011
+mtime: 1321217850
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 10 Temporary Escape.mp3
+Time: 66
+Artist: Josh Whelchel
+Title: Temporary Escape
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 10
+Date: 2011
+mtime: 1321217850
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 11 Strike and Peril.mp3
+Time: 98
+Artist: Josh Whelchel
+Title: Strike and Peril
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 11
+Date: 2011
+mtime: 1321217850
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 12 Birth of a Raven.mp3
+Time: 71
+Artist: Josh Whelchel
+Title: Birth of a Raven
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 12
+Date: 2011
+mtime: 1321217850
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 13 Alejo's Theme.mp3
+Time: 109
+Artist: Josh Whelchel
+Title: Alejo's Theme
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 13
+Date: 2011
+mtime: 1321217850
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 14 Thaddeus' Theme.mp3
+Time: 111
+Artist: Josh Whelchel
+Title: Thaddeus' Theme
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 14
+Date: 2011
+mtime: 1321217851
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 15 Swarm of the Suneater.mp3
+Time: 97
+Artist: Josh Whelchel
+Title: Swarm of the Suneater
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 15
+Date: 2011
+mtime: 1321217851
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 16 Deception in Strife.mp3
+Time: 91
+Artist: Josh Whelchel
+Title: Deception in Strife
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 16
+Date: 2011
+mtime: 1321217852
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 17 Chicanery Within.mp3
+Time: 136
+Artist: Josh Whelchel
+Title: Chicanery Within
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 17
+Date: 2011
+mtime: 1321217852
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 18 Dissension (Estellion Battle B).mp3
+Time: 179
+Artist: Josh Whelchel
+Title: Dissension (Estellion Battle B)
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 18
+Date: 2011
+mtime: 1321217852
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 19 Harper's Theme.mp3
+Time: 106
+Artist: Josh Whelchel
+Title: Harper's Theme
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 19
+Date: 2011
+mtime: 1321217852
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 20 Perplexity for a Devilish Heart.mp3
+Time: 59
+Artist: Josh Whelchel
+Title: Perplexity for a Devilish Heart
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 20
+Date: 2011
+mtime: 1321217852
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 21 Alarm!.mp3
+Time: 51
+Artist: Josh Whelchel
+Title: Alarm!
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 21
+Date: 2011
+mtime: 1321217852
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 22 Climactic (Battle Jeopardy!).mp3
+Time: 121
+Artist: Josh Whelchel
+Title: Climactic (Battle Jeopardy!)
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 22
+Date: 2011
+mtime: 1321217852
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 23 Cataclysm (Battle).mp3
+Time: 174
+Artist: Josh Whelchel
+Title: Cataclysm (Battle)
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 23
+Date: 2011
+mtime: 1321217853
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 24 Fell Raven.mp3
+Time: 65
+Artist: Josh Whelchel
+Title: Fell Raven
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 24
+Date: 2011
+mtime: 1321217853
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 25 High Cost.mp3
+Time: 92
+Artist: Josh Whelchel
+Title: High Cost
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 25
+Date: 2011
+mtime: 1321217853
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 26 Paroxysm in the Warchroots.mp3
+Time: 118
+Artist: Josh Whelchel
+Title: Paroxysm in the Warchroots
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 26
+Date: 2011
+mtime: 1321217853
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 27 Purposive (Battle).mp3
+Time: 92
+Artist: Josh Whelchel
+Title: Purposive (Battle)
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 27
+Date: 2011
+mtime: 1321217853
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 28 They're Hunted.mp3
+Time: 77
+Artist: Josh Whelchel
+Title: They're Hunted
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 28
+Date: 2011
+mtime: 1321217853
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 29 Marvel of Shadow, Livia.mp3
+Time: 109
+Artist: Josh Whelchel
+Title: Marvel of Shadow, Livia
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 29
+Date: 2011
+mtime: 1321217853
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 30 Usun's Theme.mp3
+Time: 140
+Artist: Josh Whelchel
+Title: Usun's Theme
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 30
+Date: 2011
+mtime: 1321217853
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 31 Insidious.mp3
+Time: 99
+Artist: Josh Whelchel
+Title: Insidious
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 31
+Date: 2011
+mtime: 1321217853
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 32 Tempestuous (Kaysan Battle A).mp3
+Time: 187
+Artist: Josh Whelchel
+Title: Tempestuous (Kaysan Battle A)
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 32
+Date: 2011
+mtime: 1321217854
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 33 And so it will fall....mp3
+Time: 90
+Artist: Josh Whelchel
+Title: And so it will fall...
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 33
+Date: 2011
+mtime: 1321217854
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 34 The Islemen.mp3
+Time: 108
+Artist: Josh Whelchel
+Title: The Islemen
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 34
+Date: 2011
+mtime: 1321217854
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 35 Precipitous (Kaysan Battle B).mp3
+Time: 180
+Artist: Josh Whelchel
+Title: Precipitous (Kaysan Battle B)
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 35
+Date: 2011
+mtime: 1321217854
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 36 The Reiht.mp3
+Time: 112
+Artist: Josh Whelchel
+Title: The Reiht
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 36
+Date: 2011
+mtime: 1321217854
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 37 Walls of Atium.mp3
+Time: 83
+Artist: Josh Whelchel
+Title: Walls of Atium
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 37
+Date: 2011
+mtime: 1321217854
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 38 The Extremity (Battle).mp3
+Time: 132
+Artist: Josh Whelchel
+Title: The Extremity (Battle)
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 38
+Date: 2011
+mtime: 1321217854
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 39 Vanquishment.mp3
+Time: 12
+Artist: Josh Whelchel
+Title: Vanquishment
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 39
+Date: 2011
+mtime: 1321217854
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 40 Cloe's Theme (Bonus Track).mp3
+Time: 91
+Artist: Josh Whelchel
+Title: Cloe's Theme (Bonus Track)
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 40
+Date: 2011
+mtime: 1321217854
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 41 Scourge of Estellion (BGC Reprise).mp3
+Time: 200
+Artist: Big Giant Circles
+Title: Scourge of Estellion (BGC Reprise)
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 41
+Date: 2011
+mtime: 1321217854
+song_end
+song_begin: Josh Whelchel - Ravenmark- Scourge of Estellion (Original Soundtrack) - 42 Til Death Do Us Party.mp3
+Time: 156
+Artist: HyperDuck SoundWorks
+Title: Til Death Do Us Party
+Album: Ravenmark: Scourge of Estellion (Original Soundtrack)
+Track: 42
+Date: 2011
+mtime: 1321217855
+song_end
+song_begin: 01 - Save The World (Radio Mix).mp3
+Time: 213
+Artist: Swedish House Mafia
+Title: Save The World (Radio Mix)
+Album: Save The World
+Track: 1/2
+Date: 2011
+Genre: Dance & DJ
+Composer: John Martin
+Disc: 1/1
+mtime: 1324577881
+song_end
+song_begin: 02 - Scary Monsters And Nice Sprites.mp3
+Time: 243
+Artist: Skrillex
+Title: Scary Monsters And Nice Sprites
+Album: Scary Monsters And Nice Sprites EP [Explicit]
+Track: 2/9
+Date: 2010
+Genre: Dance & DJ
+Disc: 1/1
+mtime: 1324577894
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Esuna - 01 Ebenebe Ga Egbu.mp3
+Time: 223
+Artist: Wilbert Roget, II
+Title: Ebenebe Ga Egbu
+Album: Songs for the Cure '11: Esuna
+Track: 1
+Date: 2011
+mtime: 1322440526
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Esuna - 02 Light Up the Whole Sky Like Fire.mp3
+Time: 271
+Artist: David Saulesco
+Title: Light Up the Whole Sky Like Fire
+Album: Songs for the Cure '11: Esuna
+Track: 2
+Date: 2011
+mtime: 1322440526
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Esuna - 04 The Toll.mp3
+Time: 246
+Artist: Alexander Brandon
+Title: The Toll
+Album: Songs for the Cure '11: Esuna
+Track: 4
+Date: 2011
+mtime: 1322440526
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Reiki - 01 Idavoll.mp3
+Time: 357
+Artist: Josh Whelchel
+Title: Idavoll
+Album: Songs for the Cure '11: Reiki
+Track: 1
+Date: 2011
+mtime: 1322448970
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Reiki - 06 Bra.mp3
+Time: 200
+Artist: David Saulesco
+Title: Bra
+Album: Songs for the Cure '11: Reiki
+Track: 6
+Date: 2011
+mtime: 1322448970
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Reiki - 15 So Blue.mp3
+Time: 288
+Artist: Amanda Appiarius
+Title: So Blue
+Album: Songs for the Cure '11: Reiki
+Track: 15
+Date: 2011
+mtime: 1322448970
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 01 The Battle of Vyazma.mp3
+Time: 190
+Artist: Disasterpeace
+Title: The Battle of Vyazma
+Album: Songs for the Cure '11: Remedy
+Track: 1
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 02 Roboflamenco.mp3
+Time: 253
+Artist: virt
+Title: Roboflamenco
+Album: Songs for the Cure '11: Remedy
+Track: 2
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 03 Healing Mutations.mp3
+Time: 281
+Artist: Mattias Häggström Gerdt
+Title: Healing Mutations
+Album: Songs for the Cure '11: Remedy
+Track: 3
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 04 Kite in June.mp3
+Time: 359
+Artist: Joshua Morse
+Title: Kite in June
+Album: Songs for the Cure '11: Remedy
+Track: 4
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 07 The Long-Winded and Painful Death of Sweeney S Greenville.mp3
+Time: 418
+Artist: C418
+Title: The Long-Winded and Painful Death of Sweeney S Greenville
+Album: Songs for the Cure '11: Remedy
+Track: 7
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 08 Skulltripper (feat. Random).mp3
+Time: 158
+Artist: Danny Baranowsky
+Title: Skulltripper (feat. Random)
+Album: Songs for the Cure '11: Remedy
+Track: 8
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 09 64 Squares.mp3
+Time: 270
+Artist: Inverse Phase
+Title: 64 Squares
+Album: Songs for the Cure '11: Remedy
+Track: 9
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 10 Keep On.mp3
+Time: 227
+Artist: Whitaker Blackall
+Title: Keep On
+Album: Songs for the Cure '11: Remedy
+Track: 10
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 11 Cubic Zirconium.mp3
+Time: 255
+Artist: Jimmy "Big Giant Circles" Hinson
+Title: Cubic Zirconium
+Album: Songs for the Cure '11: Remedy
+Track: 11
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 12 Lapis Lazuli.mp3
+Time: 220
+Artist: Kunal Majmudar
+Title: Lapis Lazuli
+Album: Songs for the Cure '11: Remedy
+Track: 12
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 13 Requiem Aeternam (feat. Ryan C. Connelly).mp3
+Time: 353
+Artist: Josh Whelchel
+Title: Requiem Aeternam (feat. Ryan C. Connelly)
+Album: Songs for the Cure '11: Remedy
+Track: 13
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 14 One Note Edit.mp3
+Time: 320
+Artist: Chris Geehan
+Title: One Note Edit
+Album: Songs for the Cure '11: Remedy
+Track: 14
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 15 Mind Eleven.mp3
+Time: 486
+Artist: FFMusic DJ
+Title: Mind Eleven
+Album: Songs for the Cure '11: Remedy
+Track: 15
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 16 Eight Weeks.mp3
+Time: 216
+Artist: ambinate
+Title: Eight Weeks
+Album: Songs for the Cure '11: Remedy
+Track: 16
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 17 Alba.mp3
+Time: 236
+Artist: Stemage
+Title: Alba
+Album: Songs for the Cure '11: Remedy
+Track: 17
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 18 Caustic.mp3
+Time: 229
+Artist: Rich Brilli
+Title: Caustic
+Album: Songs for the Cure '11: Remedy
+Track: 18
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 19 Rainbow Road to the Moon.mp3
+Time: 210
+Artist: Battlecake
+Title: Rainbow Road to the Moon
+Album: Songs for the Cure '11: Remedy
+Track: 19
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 20 Flames Grew Higher.mp3
+Time: 135
+Artist: Jay Tholen
+Title: Flames Grew Higher
+Album: Songs for the Cure '11: Remedy
+Track: 20
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 21 Alone Without You.mp3
+Time: 210
+Artist: Souleye
+Title: Alone Without You
+Album: Songs for the Cure '11: Remedy
+Track: 21
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: Songs for the Cure - Songs for the Cure '11- Remedy - 22 8-Bit Pimp (Just Pimp 'em Remix).mp3
+Time: 248
+Artist: A_Rival
+Title: 8-Bit Pimp (Just Pimp 'em Remix)
+Album: Songs for the Cure '11: Remedy
+Track: 22
+Date: 2011
+mtime: 1322433490
+song_end
+song_begin: 02 Stereo Love.m4a
+Time: 248
+Title: Stereo Love
+Artist: Edward Maya & Vika Jigulina
+Album: Stereo Love (Remixes)
+Genre: Dance
+Track: 2
+Disc: 1
+Date: 2010-02-02T08:00:00Z
+mtime: 1319356068
+song_end
+song_begin: 01 Superior.mp3
+Time: 168
+Artist: PANTyRAiD
+Title: Superior
+Album: Superior
+Track: 1/4
+Disc: /
+mtime: 1321580007
+song_end
+song_begin: 02 Jail Bait.mp3
+Time: 155
+Artist: PANTyRAiD
+Title: Jail Bait
+Album: Superior
+Track: 2/4
+Disc: /
+mtime: 1321580096
+song_end
+song_begin: 03 The Music's Not Over.mp3
+Time: 295
+Artist: PANTyRAiD
+Title: The Music's Not Over
+Album: Superior
+Track: 3/4
+Disc: /
+mtime: 1321580256
+song_end
+song_begin: 04 Testarossa.mp3
+Time: 243
+Artist: PANTyRAiD
+Title: Testarossa
+Album: Superior
+Track: 4/4
+Disc: /
+mtime: 1321579985
+song_end
+song_begin: 08 The Game Has Changed.m4a
+Time: 206
+Title: The Game Has Changed
+Artist: Daft Punk
+Album: TRON: Legacy (Original Motion Picture Soundtrack)
+Genre: Soundtrack
+Track: 8
+Disc: 1
+Date: 2010-12-07T08:00:00Z
+mtime: 1319356032
+song_end
+song_begin: 01 Here We Go.mp3
+Time: 407
+Artist: Bassnectar
+Title: Here We Go
+Album: Timestretch
+Track: 1/8
+Date: 2010
+Genre: Dubstep
+mtime: 1319573805
+song_end
+song_begin: 02 Bass Head.mp3
+Time: 397
+Artist: Bassnectar
+Title: Bass Head
+Album: Timestretch
+Track: 2/8
+Date: 2010
+Genre: Dubstep
+mtime: 1319573816
+song_end
+song_begin: 03 - Blast Off.mp3
+Time: 371
+Artist: Bassnectar
+Title: Blast Off (with Jantsen)
+Album: Timestretch
+Track: 3/8
+Date: 2010
+Genre: Dubstep
+mtime: 1319573824
+song_end
+song_begin: 04 Timestretch.mp3
+Time: 362
+Artist: Bassnectar
+Title: Timestretch
+Album: Timestretch
+Track: 4/8
+Date: 2010
+Genre: Dubstep
+mtime: 1319573829
+song_end
+song_begin: 05 DJ Vadim, La Methode - Maximum (R.mp3
+Time: 267
+Artist: Bassnectar
+Title: DJ Vadim, La Methode - Maximum (Remix with Ill.Gates)
+Album: Timestretch
+Track: 5/8
+Date: 2010
+Genre: Dubstep
+mtime: 1319573763
+song_end
+song_begin: 06 Timestretch (West Coast Lo Fi Rem.mp3
+Time: 360
+Artist: Bassnectar
+Title: Timestretch (West Coast Lo Fi Remix)
+Album: Timestretch
+Track: 6/8
+Date: 2010
+Genre: Dubstep
+mtime: 1319573830
+song_end
+song_begin: 07 - Bass Head (SPL Remix).mp3
+Time: 309
+Artist: Bassnectar
+Title: Bass Head (SPL Remix)
+Album: Timestretch
+Track: 7/8
+Date: 2010
+Genre: Dubstep
+mtime: 1319573831
+song_end
+song_begin: 08 - Bass Head (MRK1 Remix).mp3
+Time: 307
+Artist: Bassnectar
+Title: Bass Head (MRK1 Remix)
+Album: Timestretch
+Track: 8/8
+Date: 2010
+Genre: Dubstep
+mtime: 1319573749
+song_end
+song_begin: 01 - We Don't Rock.mp3
+Time: 311
+Artist: Dolby Anol
+Title: We Don’t Rock
+Album: Whet Whet Whet
+Track: 1/10
+Date: 2011
+Genre: Dance & DJ
+Disc: 1/1
+mtime: 1324577900
+song_end
+song_begin: 01 - You Make Me Feel...(Feat. Sabi).mp3
+Time: 216
+Artist: Cobra Starship
+Title: You Make Me Feel...(Feat. Sabi)
+Album: You Make Me Feel... (Feat. Sabi)
+Track: 1/1
+Date: 2011
+Genre: Pop
+Disc: 1/1
+mtime: 1324577907
+song_end
