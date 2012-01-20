@@ -24,10 +24,15 @@ set :font, "xft:Dejavu Sans Mono:size=8"
 set :separator, "|"
 
 # Set the WM_NAME of subtle (Java quirk)
-# set :wmname, "LG3D"
+set :wmname, "LG3D"
 
 screen 1 do
   top    [ :views, :title, :spacer, :keychain, :spacer, :tray, :mpd, :separator, :volume, :separator, :battery, :separator, :clock ]
+  bottom [ ]
+end
+
+screen 2 do
+  top    [ :views, :title]
   bottom [ ]
 end
 
@@ -225,13 +230,15 @@ grab "XF86AudioPlay",           :MpdToggle
 grab "XF86AudioPrev",           :MpdPrevious
 grab "XF86AudioNext",           :MpdNext
 
-grab "Print",       "scrot -m '%d%m%Y_$wx$h.png' -e 'mv $f ~/Pictures/'"
+grab "XF86Display", "~/bin/big_screen.rb && subtler -r"
+
+grab "Print",       "scrot -m '%d%m%Y_$wx$h.png' -e 'mv $f ~/Pictures/scrot/'"
 
 # == Tags
 
 # Simple tags
 tag "terms",   "xterm|[u]?rxvt"
-tag "browser", "uzbl|opera|firefox|navigator|chromium"
+tag "browser", "uzbl|opera|firefox|navigator|chromium|google-chrome|exe"  # The last one is for fullscreen flash
 
 # Placement
 tag "editor" do
@@ -265,23 +272,36 @@ tag "float" do
   float true
 end
 
+# Applications
+tag "minecraft" do
+  match class:  "net-minecraft-LauncherFrame"
+  gravity :center66
+end
+
+tag "openttd" do
+  match "openttd"
+  gravity :center66
+end
+
 # == Views
 
 view "www",     "browser"
 view "dev",     "editor"
 view "con",     "terms"
-view "etc",     "default"
+view "etc",     "default|minecraft"
 
 # == Sublets
 
 sublet :mpd do
-  show_colors   true
-  show_icons    false
-  format_string "%title% - %artist%"
-  pause_color   "#fecf35"
-  stop_color    "#fecf35"
-  title_color   "#fecf35"
-  artist_color  "#3579a8"
+  show_colors       true
+  show_icons        false
+  format_string     "%title% - %artist%"
+  pause_text        "- paused -"
+  not_running_text  "- not running -"
+  pause_color       "#fecf35"
+  stop_color        "#fecf35"
+  title_color       "#fecf35"
+  artist_color      "#3579a8"
 end
 
 sublet :battery do

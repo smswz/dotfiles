@@ -4,4 +4,5 @@ if [ -f $HOME/.Xresources ]; then
 fi
 eval $(cat ~/.fehbg) &
 exec mpd &
+#exec ~/bin/big_screen.rb
 exec subtle
