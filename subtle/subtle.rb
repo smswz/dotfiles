@@ -41,6 +41,7 @@ style :all do
   background  "#202020"
   border      "#303030", 0
   padding     0, 3
+  font        "xft:Dejavu Sans Mono:size=8"  
 end
 
 # Style for the views

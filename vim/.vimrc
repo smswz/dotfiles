@@ -2,14 +2,6 @@ set nocompatible
 syntax enable
 set encoding=utf-8
 set showcmd
-" Vundle time!!!
-filetype off
-set rtp+=~/.vim/bundle/vundle/
-call vundle#rc()
-
-Bundle 'gmarik/vundle'
-Bundle 'majutsushi/tagbar'
-Bundle 'tpope/vim-fugitive'
 
 filetype plugin indent on
 " Whitespace
