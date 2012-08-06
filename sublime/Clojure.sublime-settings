@@ -1,0 +1,4 @@
+{
+	// Prevent ' from being automatically doubled
+	"auto_match_enabled": true
+}
